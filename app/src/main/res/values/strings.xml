@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Pendu</string>
+    <string name="play">Jouer</string>
+    <string name="error">*ERROR*</string>
+    <string name="menu">Retour vers le menu principal</string>
+    <string name="win">Vous avez gagné !</string>
+    <string name="lose">Vous avez perdu !</string>
+    <string name="winTextSolutionWord">Le mot était bien:</string>
+    <string name="loseTextSolutionWord">Le mot à trouver était:</string>
+    <string name="textScore">Votre score est:</string>
+    <string name="prefKeySave">KeyPrivate_save_score</string>
+    <string name="descriptionImageViewLogo">Logo of pendu</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="continuer">Continuer</string>
+    <string name="textRecord">Votre record est:</string>
+    <string name="scoreFormat">%d (+%d)</string>
+
+    <string name="lettre1">a</string>
+    <string name="lettre2">b</string>
+    <string name="lettre3">c</string>
+    <string name="lettre4">d</string>
+    <string name="lettre5">e</string>
+    <string name="lettre6">f</string>
+    <string name="lettre7">g</string>
+    <string name="lettre8">h</string>
+    <string name="lettre9">i</string>
+    <string name="lettre10">j</string>
+    <string name="lettre11">k</string>
+    <string name="lettre12">l</string>
+    <string name="lettre13">m</string>
+    <string name="lettre14">n</string>
+    <string name="lettre15">o</string>
+    <string name="lettre16">p</string>
+    <string name="lettre17">q</string>
+    <string name="lettre18">r</string>
+    <string name="lettre19">s</string>
+    <string name="lettre20">t</string>
+    <string name="lettre21">u</string>
+    <string name="lettre22">v</string>
+    <string name="lettre23">w</string>
+    <string name="lettre24">x</string>
+    <string name="lettre25">y</string>
+    <string name="lettre26">z</string>
+    <string name="title_activity_score">ScoreActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Record10Text">Votre record sur dix est:</string>
+    <string name="statistique">Statistiques</string>
+    <string name="retour"><![CDATA[<= Retour <=]]></string>
+
+    <string name="dialogDeveloppementTitre">Information</string>
+    <string name="dialogDeveloppementText">Cette partie est actuellement en dèveloppement, merci de patientez et d\'attendre la nouvelle version :-(</string>
+    <string name="dialogDeveloppementBoutonTextOk">Ok</string>
+    <string name="PartieSimple">Partie Simple</string>
+    <string name="TenPartie">10 Parties De Suite</string>
+
+</resources>

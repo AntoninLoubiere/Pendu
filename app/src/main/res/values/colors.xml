@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fgButtonLetter">#000</color>
+    <color name="letterTrue">#73D216</color>
+    <color name="letterWrong">#BF0000</color>
+    <color name="solutionWord">#C17D11</color>
+</resources>

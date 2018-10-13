@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameActivity"
+    >
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="303dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/button_l1"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre1"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l2"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre2"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l3"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre3"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l4"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre4"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l5"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre5"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l6"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre6"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l7"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre7"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l8"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre8"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l9"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre9"
+                    android:textColor="@color/fgButtonLetter" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/button_l10"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre10"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l11"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre11"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l12"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre12"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l13"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre13"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l14"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre14"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l15"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre15"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l16"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre16"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l17"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre17"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l18"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre18"
+                    android:textColor="@color/fgButtonLetter" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center">
+
+                <Button
+                    android:id="@+id/button_l19"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre19"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l20"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre20"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l21"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre21"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l22"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre22"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l23"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre23"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l24"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre24"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l25"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre25"
+                    android:textColor="@color/fgButtonLetter" />
+
+                <Button
+                    android:id="@+id/button_l26"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:text="@string/lettre26"
+                    android:textColor="@color/fgButtonLetter" />
+
+            </TableRow>
+        </TableLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/MotSecret"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="serif-monospace"
+        android:text="@string/error"
+        android:textSize="50sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/coupRestant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/error"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/MotSecret" />
+
+</android.support.constraint.ConstraintLayout>
